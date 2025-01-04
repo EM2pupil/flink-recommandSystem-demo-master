@@ -11,6 +11,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @MapperScan("com.demo.dao")
 public class RecommandApplication {
 
+
     public static void main(String[] args) {
         SpringApplication.run(RecommandApplication.class);
     }
